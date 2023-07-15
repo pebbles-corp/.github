@@ -21,4 +21,7 @@
 - 🍿 김윤주 : 돌마냥 데구르르 굴러들어옴. 목표는 잘 굴러가는 것! (물론 혼자서도 잘 굴러보겠습니다)
 
 ### 피그마
-[링크](https://www.figma.com/file/dwtNCSbyRHg5x80VZRfm0h/%EC%9E%90%EA%B0%88%EB%8F%8C?type=design&node-id=0%3A1&mode=design&t=SibMHKK4zYkRykz2-1)
+[바로가기](https://www.figma.com/file/dwtNCSbyRHg5x80VZRfm0h/%EC%9E%90%EA%B0%88%EB%8F%8C?type=design&node-id=0%3A1&mode=design&t=SibMHKK4zYkRykz2-1)
+
+### 노션
+[바로가기](https://www.notion.so/9c941c6dbca94f5eb8b86b151430c2f7?pvs=4)
